@@ -1,0 +1,22 @@
+@import './utils/mixins';
+@import './base/reset';
+
+@import './components/container';
+@import './components/link';
+@import './components/list';
+@import './components/body';
+@import './components/backdrop';
+@import './components/modal';
+
+@import './layout/logo';
+@import './layout/header';
+@import './layout/banner';
+@import './layout/specificity';
+@import './layout/about';
+@import './layout/team';
+@import './layout/our-clients';
+@import './layout/footer';
+@import './layout/portfolio';
+
+@import './utils/variables';
+@import './utils/hidden';
